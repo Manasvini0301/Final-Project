@@ -4,10 +4,12 @@ This project explores the use of machine learning models to predict agricultural
 
 Key aspects of the project include:
 ✅ Data preprocessing – Feature engineering, scaling, and handling missing values
+
 ✅ Exploratory Data Analysis (EDA) – Identifying patterns and trends in exports
+
 ✅ Model development & evaluation – Comparing trade-offs in accuracy and computational efficiency
+
 ✅ Ethical considerations – Addressing data protection and regulatory compliance
 
 The findings highlight the potential of machine learning for improving agricultural export forecasting and suggest future work incorporating larger datasets and more advanced architectures.
 
-🚀 Contributions and feedback are welcome!
