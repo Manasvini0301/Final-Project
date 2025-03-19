@@ -1,6 +1,6 @@
 # Final-Project
-**How can machine learning models effectively predict agricultural exports, and what are the trade-offs between different models in terms of accuracy and computational efficiency?**
-This project explores the use of machine learning models to predict agricultural export patterns across various commodities and regions. The study leverages Random Forest, XGBoost, and LSTM networks to analyze historical export data (2019–2022) and evaluate predictive accuracy using metrics like F1-score, R², and RMSE.
+**Which machine learning model provides the most accurate and reliable predictions for agricultural exports for different countries, and what are the trade-offs between different models in terms of accuracy and computational efficiency? **
+This project explores the use of machine learning models to predict agricultural export patterns across various commodities and regions. The study leverages Random Forest, XGBoost, and LSTM networks to analyze historical export data (2010–2022) and evaluate predictive accuracy using metrics like F1-score, R², and RMSE.
 
 Key aspects of the project include:
 ✅ Data preprocessing – Feature engineering, scaling, and handling missing values
